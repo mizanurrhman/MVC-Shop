@@ -6,18 +6,18 @@
 * From  Order Creation  to competation & change status by Admin
 * Used **Test Code** & Identity
 
-Here's some screenshot of screens/forms
+> Here's some screenshot of screens/forms
 
 > Home Screen
-![Home](/MVC-SHOP/Content/ProductImages/1.JPG)
+![Home](https://github.com/mizanurrhman/MVC-Shop/blob/master/mvc-shop/Content/ProductImages/1.JPG)
 > Cart
-![Basket](/MVC-SHOP/Content/ProductImages/2.JPG)
+![Basket](https://github.com/mizanurrhman/MVC-Shop/blob/master/mvc-shop/Content/ProductImages/2.JPG)
 > Check Out
-![Home](/MVC-SHOP/Content/ProductImages/3.JPG)
+![Home](https://github.com/mizanurrhman/MVC-Shop/blob/master/mvc-shop/Content/ProductImages/3.JPG)
 > Proceed To Payment | Order Complete
-![Home](/MVC-SHOP/Content/ProductImages/4.JPG)
+![Home](https://github.com/mizanurrhman/MVC-Shop/blob/master/mvc-shop/Content/ProductImages/4.JPG)
 > All Order Status
-![List Of All Status](/MVC-SHOP/Content/ProductImages/5.JPG)
+![List Of All Status](https://github.com/mizanurrhman/MVC-Shop/blob/master/mvc-shop/Content/ProductImages/5.JPG)
  > Change Status By Admin
-![Order Status](/MVC-SHOP/Content/ProductImages/6.JPG)
+![Order Status](https://github.com/mizanurrhman/MVC-Shop/blob/master/mvc-shop/Content/ProductImages/6.JPG)
 
